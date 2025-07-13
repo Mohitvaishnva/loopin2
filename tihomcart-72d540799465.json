@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tihomcart",
+  "private_key_id": "72d54079946597c7f00434a5db1ed6979dfdcbfe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmBZwSXRJdlqUc\nvVqP2oC7lLIpb8fZYQG6KyB+KndBAP5Oc+MTYNappwHVFU5vZ/cXxUwR2ORxFe7E\ni3L/ET6TyrH6W/SwoUbM9UY9pqbn6vMsagHpehPy/GpO3bJW5WwBvsyaRItstOF2\nLUoQzgqdlmkJxCqt36lYBEnyma16z/WNFtSVtEBcDT/gXeqjrkWEyBitFUHvFD1f\n7oudhxPAhjg85PQ0DRNlGITSkfVi8rRMONbzmg9TxzgPl9qkh99EHIqwiR8nHpqA\nHpYp3inQbHN8evkssOOQHEIAj2BOnPYODHP1/nqJHV9xgxd8bfrMd+eNivqov5kt\ny2hc3Z09AgMBAAECggEACLeIr0olubY8KxsiEyWE1tSC2jwdQSOfxJeZGCbApjAY\nKiRZit3tx3CWXwrEWIMb7SqVyOYbcHiXVciAnDXalEXzPFLxsQh2wDIsovYKE2k5\npV5XhVu8imiIaGWphHh9SEYtVfg9XdLNd7f/CIzY79dC4pljKEfzC0UGYO+CtUz6\nPpGBy350BO3OnVZpBId7VIRn60Pc9lWoK1dxSADm6Tjc16tClMdc75u5vDbMxO1t\njr323ovgd+YPdq8nUJxfGUxWNzcdYrCH3PGwmukai3byUsx2agrK5OBPNjf2qf/Q\nLFbZrSbPnEmiTMQqo0Y+PZAHU5Czzom4laJgaTYRoQKBgQDfZEM4Z4IKtQymuIbL\nFixfdxkMb+MdfByeiCvUNlHabYD8llnprVb0SMkad1UwQcT/bPn8kSQtEaCRx9VP\n4vzSulrB/9M5i7dnjkfgKj36r5c+LvrIg9f6a+NJQAhc/3pgy1jNxKpWXdhWLdkr\nsVI6LhT/DaGmVgiwlcWi8bh1SQKBgQC+QYt+DLLz22QGzlbDFPJ4w62tHBr87flL\nS40asJ/ESeLuYw60hTpFk3Ho/As5D3UXb3Zh0tGdPBXiHU7Hx3GgdsDaWw4WRvgC\nQPS5+Kdw7WNSfDzrW8G0Hv/nFKhG8FFdrLc4FcP6RrQ3SUiBX3b/y9KpJMXjhPez\nAGeGgmVMVQKBgQDKiaH0kswxnwLwad80ZE8o4tdgElWNVwivp3BtgC5oZt4KpNqy\nZgmvhAppJ4aiMQ9GMmzY1FNDVXcKlW7OdlOZT4KX37WHuCg6CKMcF9CH6AmtRHT1\ntavtDUJOGHM8thkjh1plfYies4lAYWNEHQobW8qHkLleESThzXkaCiSemQKBgQCl\nCZKJi1aItt10EfWtUDRtkcDMk77NfVlteWIzrtdInJdgF0mgSpmb1SVQ56KMot39\nsFDO1uPCM2cAOFAoeNgWTC1KvQXhSTrGKbagxBPrn+EyolbuCzBioSl3OLIopzrN\nuY9N9YOFTWPzOXzNzRQbHKHm2+FVVfjQrB8hzWc16QKBgHTY5rg+aaCXgUO4W+5/\nCvNrn4k2uof2Wa4YF+zvfiyt9R6XL9aPvdbvJxIC93NcmO8ItfScuva6TkzaOi7h\n6nBHjmhUJTfube7GJLhuKn6dCm66YZyFW+7aN1zNR1cc3HCUGUDgl/5BDPhs+L3A\n9VG+V5LQejUlHWZmpzwTH1EN\n-----END PRIVATE KEY-----\n",
+  "client_email": "play-cansole-account-service@tihomcart.iam.gserviceaccount.com",
+  "client_id": "118238227239118040173",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/play-cansole-account-service%40tihomcart.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
